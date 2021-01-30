@@ -1,2 +1,2 @@
-def display_rainbow(colors)
-  puts "#{color[]}"
+def display_rainbow(color)
+  puts "#{color[]}, #{colo[]}, #{color[]}, #{color[]}, #{color[]}, #{color[]},
