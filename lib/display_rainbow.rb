@@ -1,2 +1,2 @@
 def display_rainbow(colors)
-  puts "#"
+  puts "#{color[]}"
